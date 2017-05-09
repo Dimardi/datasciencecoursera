@@ -1,2 +1,2 @@
-# datascienceweek4
+# datasciencecoursera
 Week 4 Assignment
